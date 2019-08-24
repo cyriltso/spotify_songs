@@ -115,3 +115,5 @@ class CollectData(object):
         df_saved_songs['added_at'] = self.added_time_list
         df_saved_songs['song_title'] = self.title_list
         df_saved_songs['artists'] = self.artist_list 
+
+        return df_saved_songs
