@@ -31,9 +31,9 @@ This will be done by using Collaborative Filtering algorithm.
 
 ## 6. Technical Stack
 
-Programming language : Python 3.7, SQL \br
-Tools : Visual Studio Code, Jupyter Notebook, Git \br
-Libraries : Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn, Spotipy
+-  Programming language : Python 3.7, SQL 
+-  Tools : Visual Studio Code, Jupyter Notebook, Git 
+-  Libraries : Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn, Spotipy
 
 ## 7. Acknowledgements
 
