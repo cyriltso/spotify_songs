@@ -32,7 +32,8 @@ This will be done by using Collaborative Filtering algorithm.
 ## 6. Technical Stack
 
 Programming language : Python 3.7, SQL
-Tools : Visual Studio Code for Data Collection, Jupyter Notebook for Data Analysis, Git for code versionning
+Tools : Visual Studio Code, Jupyter Notebook, Git
+Libraries : Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn, Spotipy
 
 ## 7. Acknowledgements
 
