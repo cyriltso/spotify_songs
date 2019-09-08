@@ -5,10 +5,8 @@
 This is a personal project that aims to satisfy different goals :
   1. Analysis of the user's favorite music types based on his playlists
   2. Discover who are his favorite artists
-  3. Able to create a playlist recommander system based on previous playlists' tracks
   
-This project also aims to help to improve my personal skills on Unsupervised Learning techniques such as the Clustering and on Recommanders System
-algorithms but also to make me improve on building a Data Science project from scratch (from the Data Acquisition to Storytelling).
+This project also aims to help to improve my personal skills on Unsupervised Learning techniques and knowledges but also to make me improve my proficiency on building a Data Science project from scratch (from the Data Acquisition to Storytelling).
   
 ## 2. Collecting the data
 
@@ -25,17 +23,13 @@ scale the features as preprocessing steps.
 
 Goals 1 and 2 are going to be done through K-Means Clustering algorithm from Scikit-Learn.
 
-## 5. Playlist Recommander
-
-This will be done by using Collaborative Filtering algorithm.
-
-## 6. Technical Stack
+## 5. Technical Stack
 
 -  Programming language : Python 3.7, SQL 
 -  Tools : Visual Studio Code, Jupyter Notebook, Git 
 -  Libraries : Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn, Spotipy
 
-## 7. Acknowledgements
+## 6. Acknowledgements
 
 This project has been highly inspired by John Koh's project available on Towards Data Science : https://towardsdatascience.com/profiling-my-favorite-songs-on-spotify-through-clustering-33fee591783d
 
