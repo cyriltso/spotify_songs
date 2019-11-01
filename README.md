@@ -1,4 +1,4 @@
-# Spotify's songs analysis and playlists recommandation
+# Spotify's songs analysis
 
 ## 1. Introduction
 
